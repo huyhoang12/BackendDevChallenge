@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.25, 8.5" name="DBPhoto">
+  <DataContextMoniker Name="/DBPhotoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="554b449d-fc92-4234-b1b3-86d920c3c0bf" absoluteBounds="5.875, 1.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DBPhotoDataContext/tbl_Album" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00db81db-339c-4079-a25f-f8f54f67cfe6" absoluteBounds="5.89, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7c05e71-332d-406f-9f40-9d8a3a852650" absoluteBounds="5.625, 4, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DBPhotoDataContext/tbl_Photo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae2be9c2-d34e-4a09-a3ee-400af8304d08" absoluteBounds="5.64, 4.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="202a3e37-2806-4cfe-bf5d-999bd0cfd0ae" absoluteBounds="10, 3.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DBPhotoDataContext/tbl_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65b0f69a-4bdb-44d2-ae97-6f67c9fa3afb" absoluteBounds="10.015, 3.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
